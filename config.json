@@ -4,16 +4,16 @@
   "updates":[
     {
       "platform":"Android",
-      "displyVerion":"1.0.1",
+      "displayVersion":"1.0.1",
       "versionCode": 1,
-      "isFourceUpdate": false,
+      "isForceUpdate": false,
       "releaseNotes":["Minor bug fixes", "UI Improvements"]
     },
     {
       "platform":"ios",
-      "displyVerion":"1.0.1",
+      "displayVersion":"1.0.1",
       "versionCode": 1,
-      "isFourceUpdate": false,
+      "isForceUpdate": false,
       "releaseNotes":["Minor bug fixes", "UI Improvements"]
     }
   ]
