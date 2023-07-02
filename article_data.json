@@ -1,0 +1,74 @@
+[
+  {
+      "id": 1,
+      "title":"Entdecke hier die besten Angebote bekannter Marken im Überblick",
+      "subtitle":"Yahoo Shopping",
+      "imageUrl":"https://s.yimg.com/ny/api/res/1.2/fhVJ8OVV90151PzE1rLwvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQyNztjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2023-06/bdb9be90-0904-11ee-8eff-2c8751e3ce27",
+      "message":"Das Angebot gilt für ausgewählte Herrenhemden und -shirts. Natürlich müssen nicht von einem Modell vier Stück gekauft werden – auch Mix & Match ist möglich. So kriegt der Kleiderschrank ein gesundes Update, ohne dass das Portemonnaie einen Herzinfarkt erleiden muss!",
+      "createdOn": "30.Jun.2023",
+      "updatedOn":"30.Jun.2023",
+      "category": "article",
+      "subCategory": "spiritual",
+      "enable":true
+  },
+  {
+      "id": 2,
+      "title":"India’s Karnataka Coast",
+      "subtitle":"Explore western India’s Coastal Karnataka region with these photos taken by our readers",
+      "imageUrl":"https://i.pinimg.com/564x/8e/63/d5/8e63d5b4a86df57d000325a7ee58618e.jpg",
+      "message":"With its diverse scenery and temples, it's no wonder India's west coast is becoming a popular travel destination. Although Goa is India's best-known holiday spot on the Arabian Sea, its popularity has pushed prices up. The Karnataka Coast, located just south, can be a worthy alternative, filled with beautiful beaches, waterfalls and historic temples.",
+      "createdOn": "30.Jun.2023",
+      "updatedOn":"30.Jun.2023",
+      "category": "article",
+      "subCategory": "spiritual",
+      "enable":true
+  },
+  {
+      "id": 2,
+      "title":"Vienna Is the Most Livable City in the World",
+      "subtitle":"The city also topped the Economist Intelligence Unit’s annual rankings in 2018, 2019 and 2022",
+      "imageUrl":"https://i.pinimg.com/564x/8e/63/d5/8e63d5b4a86df57d000325a7ee58618e.jpg",
+      "message":"For the second year in a row, Vienna has been named the most livable city in the world. The Austrian capital earned the top spot on the Economist Intelligence Unit’s (EIU) annual ranking because of its stability, its robust health care and education systems and its strong infrastructure, among other factors.",
+      "createdOn": "30.Jun.2023",
+      "updatedOn":"30.Jun.2023",
+      "category": "article",
+      "subCategory": "spiritual",
+      "enable":true
+  },
+  {
+      "id": 4,
+      "title":"Teenagers Arrested In Switzerland After Violence Inspired By France Riots",
+      "subtitle":"Stones were thrown and show windows were smashed in Lausanne last evening, with a sneaker store particularly affected.",
+      "imageUrl":"https://c.ndtvimg.com/2019-06/t6dlovu8_switzerland-police_625x300_26_June_19.jpg",
+      "message":"Das Angebot gilt für ausgewählte Herrenhemden und -shirts. Natürlich müssen nicht von einem Modell vier Stück gekauft werden – auch Mix & Match ist möglich. So kriegt der Kleiderschrank ein gesundes Update, ohne dass das Portemonnaie einen Herzinfarkt erleiden muss!",
+      "createdOn": "30.Jun.2023",
+      "updatedOn":"30.Jun.2023",
+      "category": "article",
+      "subCategory": "indian_history",
+      "enable":true
+  },
+  {
+      "id": 5,
+      "title":"White House Report",
+      "subtitle":"Explore western India’s Coastal Karnataka region with these photos taken by our readers",
+      "imageUrl":"https://c.ndtvimg.com/2023-04/2irsehm8_astrophotographer-captures-60000miletall-plasma-waterfall-on-the-sun_625x300_15_April_23.jpg",
+      "message":"New research published on the White House website says that the Biden administration is open to studying how to block sunlight to save the Earth from climate change.",
+      "createdOn": "30.Jun.2023",
+      "updatedOn":"30.Jun.2023",
+      "category": "article",
+      "subCategory": "ancient_temples",
+      "enable":true
+  },
+  {
+      "id": 6,
+      "title":"Nokia Renews Patent Licence Agreement With Apple For Another Term",
+      "subtitle":"Nokia said the company expects to recognize revenue related to the agreement starting January 2024.",
+      "imageUrl":"https://i.gadgets360cdn.com/large/nokia_logo_facebook_1678772712259.jpg",
+      "message":"For the second year in a row, Vienna has been named the most livable city in the world. The Austrian capital earned the top spot on the Economist Intelligence Unit’s (EIU) annual ranking because of its stability, its robust health care and education systems and its strong infrastructure, among other factors.",
+      "createdOn": "30.Jun.2023",
+      "updatedOn":"30.Jun.2023",
+      "category": "article",
+      "subCategory": "freedom_fighters",
+      "enable":true
+  }
+]
