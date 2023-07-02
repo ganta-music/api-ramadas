@@ -77,12 +77,6 @@
           "enable":true
         }
       ]
-    },
-    {
-      "title":"Profile",
-      "view":"ProfileTabView",
-      "icon":"user",
-      "tabs": []
     }
   ]
 }
