@@ -21,7 +21,8 @@
     {
       "title":"Home",
       "view":"HomeTabView",
-      "icon":"home"
+      "icon":"home",
+      "tabs": []
     },
     {
       "title":"Articles",
@@ -80,7 +81,8 @@
     {
       "title":"Profile",
       "view":"ProfileTabView",
-      "icon":"user"
+      "icon":"user",
+      "tabs": []
     }
   ]
 }
