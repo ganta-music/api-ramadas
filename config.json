@@ -7,14 +7,14 @@
       "displayVersion":"1.0.1",
       "versionCode": 1,
       "isForceUpdate": false,
-      "releaseNotes":["Minor bug fixes", "UI Improvements"]
+      "releaseNotes":["Minor bug fixes", "UI Improvements", "UI Improvements"]
     },
     {
       "platform":"ios",
       "displayVersion":"1.0.1",
       "versionCode": 1,
       "isForceUpdate": false,
-      "releaseNotes":["Minor bug fixes", "UI Improvements"]
+      "releaseNotes":["Minor bug fixes", "UI Improvements", "UI Improvements"]
     }
   ],
   "bottomTabs": [
