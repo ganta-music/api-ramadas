@@ -19,12 +19,14 @@
   ],
   "bottomTabs": [
     {
+      "uuid": "9cbc7afc-4c2a-4da1-af8b-5ccdb7208e33",
       "title":"Home",
       "view":"HomeTabView",
       "icon":"home",
       "tabs": []
     },
     {
+      "uuid": "8cb4d01b-f28f-4fec-9050-126ca4d6f0a9",
       "title":"Articles",
       "view":"DynamicTabsView",
       "icon":"document",
@@ -53,6 +55,7 @@
     },
     {
       "title":"Media",
+      "uuid": "77e0a8b2-aa91-40f4-897c-52c07cd84503",
       "view":"DynamicTabsView",
       "icon":"video_sqr",
       "tabs": [
@@ -79,6 +82,7 @@
       ]
     },
     {
+      "uuid": "462f576b-eb6d-4c34-a704-d2930f8c2b23",
       "title":"Profile",
       "view":"ProfileTabView",
       "icon":"user",
