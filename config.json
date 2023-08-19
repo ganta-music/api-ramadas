@@ -19,35 +19,39 @@
   ],
   "bottomTabs": [
     {
-      "uuid": "9cbc7afc-4c2a-4da1-af8b-5ccdb7208e33",
+      "uuid": "1db990db-60a4-4640-856e-fe2573a89f90",
       "title":"Home",
       "view":"HomeTabView",
       "icon":"home",
       "tabs": []
     },
     {
-      "uuid": "8cb4d01b-f28f-4fec-9050-126ca4d6f0a9",
+      "uuid": "8c62c913-aa12-4921-ace1-1e894b316349",
       "title":"Articles",
       "view":"DynamicTabsView",
       "icon":"document",
       "tabs": [
         {
           "id":"spiritual",
+          "uuid": "cb696362-1c24-4dd7-834c-6257cd93f9da",
           "title":"Spiritual",
           "enable":true
         },
         {
           "id":"indian_history",
+          "uuid": "ee5a8037-aeba-4b7a-a0a8-88d4933b8f5f",
           "title":"Indian History",
           "enable":true
         },
         {
           "id":"ancient_temples",
+          "uuid": "dc922c44-e137-4aae-8cb4-e64241f29793",
           "title":"Ancient Temples",
           "enable":true
         },
         {
           "id":"freedom_fighters",
+          "uuid": "24634947-3796-4ded-aa89-7c4ea9a6f981",
           "title":"Freedom Fighters",
           "enable":true
         }
@@ -55,34 +59,38 @@
     },
     {
       "title":"Media",
-      "uuid": "77e0a8b2-aa91-40f4-897c-52c07cd84503",
+      "uuid": "7f0fc6d8-5196-4fc5-ad91-2836ff0aa4f8",
       "view":"DynamicTabsView",
       "icon":"video_sqr",
       "tabs": [
         {
           "id":"youtube",
+          "uuid": "23535fbb-8a9b-43ad-9ac7-1af7c931652e",
           "title":"Youtube",
           "enable":true
         },
         {
           "id":"videos",
           "title":"Videos",
+          "uuid": "60f32b76-91cf-4437-bf06-e2a0e90cbc45",
           "enable":true
         },
         {
           "id":"audios",
           "title":"Audios",
+          "uuid": "54655ff8-8820-4651-88f1-8aba890a89ad",
           "enable":true
         },
         {
           "id":"images",
           "title":"Images",
+          "uuid": "c8126037-f6d6-4b21-b301-25b0aee25279",
           "enable":true
         }
       ]
     },
     {
-      "uuid": "462f576b-eb6d-4c34-a704-d2930f8c2b23",
+      "uuid": "cbe13f06-9ffb-4a9a-b74a-5fd158cb4583",
       "title":"Profile",
       "view":"ProfileTabView",
       "icon":"user",
