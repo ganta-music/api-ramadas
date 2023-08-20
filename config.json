@@ -1,7 +1,7 @@
 {
   "isAppInMaintenance": false,
   "maintenanceMessage": "Maintenance Work in Progress, App will be resumed on 02 July 2023.",
-  "uuid": "85448fe7-6307-471e-be1f-c71e1e1b1fb4",
+  "uuid": "9111b273-5858-4393-b19d-88831ffb0556",
   "updates":[
     {
       "platform":"Android",
@@ -20,39 +20,39 @@
   ],
   "bottomTabs": [
     {
-      "uuid": "79f6dd2b-5844-4011-9dba-392f3de75b85",
+      "uuid": "a86595d9-f83b-4379-b30c-4537c3ca29c0",
       "title":"Home",
       "view":"HomeTabView",
       "icon":"home",
       "tabs": []
     },
     {
-      "uuid": "b5336ebf-53e4-4dc5-aa2d-ff5478cc3561",
+      "uuid": "97fccdbd-2c3c-4aae-80f3-73f3948241bf",
       "title":"Articles",
       "view":"DynamicTabsView",
       "icon":"document",
       "tabs": [
         {
           "id":"spiritual",
-          "uuid": "f2519117-5e00-4a79-a1ea-b958640cc3c4",
+          "uuid": "b150bae5-d48a-41b2-a501-0a663e9b83b6",
           "title":"Spiritual",
           "enable":true
         },
         {
           "id":"indian_history",
-          "uuid": "e06cfc1a-f94b-423a-a2f3-1c16cc6b26a2",
+          "uuid": "cd666009-e14a-4446-8856-42de77257b31",
           "title":"Indian History",
           "enable":true
         },
         {
           "id":"ancient_temples",
-          "uuid": "1e362676-0df9-45be-88f5-d9acfb72279b",
+          "uuid": "c66ea499-b17c-445b-a2e6-cf72b98cd67f",
           "title":"Ancient Temples",
           "enable":true
         },
         {
           "id":"freedom_fighters",
-          "uuid": "a9339f00-d76d-4a8e-95bc-b35f902d85a0",
+          "uuid": "9d163375-3e3f-4924-8d4a-fe331c74d457",
           "title":"Freedom Fighters",
           "enable":true
         }
@@ -60,38 +60,38 @@
     },
     {
       "title":"Media",
-      "uuid": "20914e29-388e-4be5-868e-2e31d5c50daf",
+      "uuid": "e8cfa720-a22d-4ccc-b822-89c8653bcfc2",
       "view":"DynamicTabsView",
       "icon":"video_sqr",
       "tabs": [
         {
           "id":"youtube_channels",
-          "uuid": "38cb9814-43ff-45b8-a5c8-0fc2d02eaac1",
+          "uuid": "72eb7154-664e-4d41-a8ec-07c05015784d",
           "title":"Youtube",
           "enable":true
         },
         {
           "id":"videos",
           "title":"Videos",
-          "uuid": "d1428a1f-3ef8-4dbe-a242-55cc75dfd70a",
+          "uuid": "6978f469-8c1e-4b5c-8ccf-6c2d34416d5c",
           "enable":true
         },
         {
           "id":"audios",
           "title":"Audios",
-          "uuid": "47080cfd-413b-417f-9d90-ab656aed9e70",
+          "uuid": "059e2ec8-8671-40c9-b27b-85e81ae85ab9",
           "enable":true
         },
         {
           "id":"images",
           "title":"Images",
-          "uuid": "60e4fbff-72f4-4b80-98b5-b726f7aeb5d3",
+          "uuid": "5ee4d107-da98-4704-b718-68c4dbf1a1c6",
           "enable":true
         }
       ]
     },
     {
-      "uuid": "ce2fa838-06e1-4686-a580-2f8c747c7576",
+      "uuid": "7db4f483-1459-45c6-8a12-1a2b7bda3014",
       "title":"Profile",
       "view":"ProfileTabView",
       "icon":"user",
