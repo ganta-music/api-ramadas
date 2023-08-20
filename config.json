@@ -36,24 +36,28 @@
           "id":"spiritual",
           "uuid": "b150bae5-d48a-41b2-a501-0a663e9b83b6",
           "title":"Spiritual",
+          "category":"article",
           "enable":true
         },
         {
           "id":"indian_history",
           "uuid": "cd666009-e14a-4446-8856-42de77257b31",
           "title":"Indian History",
+          "category":"article",
           "enable":true
         },
         {
           "id":"ancient_temples",
           "uuid": "c66ea499-b17c-445b-a2e6-cf72b98cd67f",
           "title":"Ancient Temples",
+          "category":"article",
           "enable":true
         },
         {
           "id":"freedom_fighters",
           "uuid": "9d163375-3e3f-4924-8d4a-fe331c74d457",
           "title":"Freedom Fighters",
+          "category":"article",
           "enable":true
         }
       ]
@@ -68,24 +72,28 @@
           "id":"youtube_channels",
           "uuid": "72eb7154-664e-4d41-a8ec-07c05015784d",
           "title":"Youtube",
+          "category":"youtube",
           "enable":true
         },
         {
           "id":"videos",
           "title":"Videos",
           "uuid": "6978f469-8c1e-4b5c-8ccf-6c2d34416d5c",
+          "category":"video",
           "enable":true
         },
         {
           "id":"audios",
           "title":"Audios",
           "uuid": "059e2ec8-8671-40c9-b27b-85e81ae85ab9",
+          "category":"audio",
           "enable":true
         },
         {
           "id":"images",
           "title":"Images",
           "uuid": "5ee4d107-da98-4704-b718-68c4dbf1a1c6",
+          "category":"image",
           "enable":true
         }
       ]
